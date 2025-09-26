@@ -1,0 +1,7 @@
+Flask
+flask-cors
+PyMuPDF
+python-docx
+google-generativeai
+reportlab
+typing-extensions

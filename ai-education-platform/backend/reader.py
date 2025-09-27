@@ -29,7 +29,7 @@ def extract_notes(file_path):
 
 # ---------- Example Usage ----------
 if __name__ == "__main__":
-    file_path = "sample_notes.pdf"   # change to your file
+    file_path = "AIUNIT5.pdf"   # change to your file
     notes_text = extract_notes(file_path)
     print("\n--- Extracted Notes ---\n")
     print(notes_text)
